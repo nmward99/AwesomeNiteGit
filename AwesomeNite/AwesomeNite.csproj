@@ -245,6 +245,7 @@
     <Compile Include="Assets\Camera Scripts\CameraScript.cs" />
     <Compile Include="Assets\Camera Scripts\MouseScript.cs" />
     <Compile Include="Assets\FX Scripts\DestroyGameObject.cs" />
+    <Compile Include="Assets\PlayerScripts\PlayerAttack.cs" />
     <Compile Include="Assets\PlayerScripts\PlayerMovement.cs" />
     <Compile Include="Assets\Walk.cs" />
   </ItemGroup>
